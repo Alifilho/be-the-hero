@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
+<img src="https://raw.githubusercontent.com/fl4m3x/be-the-hero/master/img/logo3x.png" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h4>
 <p align="center">
