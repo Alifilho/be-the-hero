@@ -30,6 +30,20 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 ### 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
 As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
 
+### :screen: Telas
+
+<p align="center">
+    <img alt="" title="" src="imgs/print1.png">
+    <img alt="" title="" src="imgs/print2.png">
+    <img alt="" title="" src="imgs/print3.png">
+    <img alt="" title="" src="imgs/print4.png">
+    <img alt="" title="" src="imgs/print5.png">
+    <img alt="" title="" src="imgs/print6.png">
+    <img alt="" title="" src="imgs/print7.png">
+    <img alt="" title="" src="imgs/print8.png">
+    <img alt="" title="" src="imgs/print9.png">
+    <img alt="" title="" src="imgs/print-insomnia.png">
+</p>
 
 ### :mortar_board: Quem ministrou?
 
