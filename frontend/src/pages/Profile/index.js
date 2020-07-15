@@ -18,7 +18,7 @@ export default function Profile() {
 
   useEffect(() => {
     api
-      .get("/profile", {
+      .get("/incidents", {
         headers: {
           Authorization: ongId,
         },
@@ -76,7 +76,7 @@ export default function Profile() {
             <strong>VALOR:</strong>
             <p>
               {Intl.NumberFormat("pt-BR", {
-                style: "currnecy",
+                style: "currency",
                 currency: "BRL",
               }).format(incident.value)}
             </p>
